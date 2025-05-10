@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "React에서 상태를 관리할 때 사용하는 Hook은?",
+      "options": ["useState", "useEffect", "useMemo", "useRef"],
+      "answer": "useState"
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "TypeScript에서 변수의 타입을 명시적으로 지정할 때 사용하는 키워드는?",
+      "options": ["type", "interface", "as", ":"],
+      "answer": ":"
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Next.js에서 페이지를 생성하는 폴더는?",
+      "options": ["pages", "components", "public", "styles"],
+      "answer": "pages"
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "React에서 컴포넌트가 처음 마운트될 때 실행되는 Hook은?",
+      "options": ["useEffect", "useState", "useCallback", "useReducer"],
+      "answer": "useEffect"
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "TypeScript에서 객체의 타입을 정의할 때 사용하는 키워드는?",
+      "options": ["type", "interface", "object", "define"],
+      "answer": "interface"
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Next.js에서 정적 파일을 넣는 폴더는?",
+      "options": ["public", "static", "assets", "files"],
+      "answer": "public"
+    },
+    {
+      "id": 7,
+      "difficulty": "medium",
+      "question": "React에서 부모 컴포넌트가 자식 컴포넌트에 값을 전달할 때 사용하는 것은?",
+      "options": ["props", "state", "context", "ref"],
+      "answer": "props"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "TypeScript에서 유니언 타입을 선언할 때 사용하는 기호는?",
+      "options": ["|", "&", ",", "/"],
+      "answer": "|"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "Next.js에서 데이터 패칭을 위해 사용하는 함수는? (getStaticProps, getServerSideProps 등)",
+      "options": ["getStaticProps", "getServerSideProps", "getInitialProps", "모두 해당"],
+      "answer": "모두 해당"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "React에서 컴포넌트의 성능 최적화를 위해 사용하는 Hook은?",
+      "options": ["useMemo", "useEffect", "useState", "useRef"],
+      "answer": "useMemo"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "TypeScript에서 함수의 매개변수에 기본값을 지정할 수 있다. (O/X)",
+      "options": ["O", "X"],
+      "answer": "O"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Next.js에서 동적 라우팅을 구현할 때 파일 이름에 사용하는 표시는?",
+      "options": ["[ ]", "{ }", "( )", "< >"],
+      "answer": "[ ]"
+    },
+    {
+      "id": 13,
+      "difficulty": "hard",
+      "question": "React에서 Context API를 사용할 때 필요한 컴포넌트는?",
+      "options": ["Provider", "Consumer", "둘 다", "없음"],
+      "answer": "둘 다"
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "TypeScript에서 제네릭(Generic)을 선언할 때 사용하는 기호는?",
+      "options": ["< >", "[ ]", "{ }", "( )"],
+      "answer": "< >"
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "Next.js에서 API 라우트를 만들 때 사용하는 폴더는?",
+      "options": ["api", "routes", "server", "functions"],
+      "answer": "api"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "React에서 useRef로 DOM에 직접 접근할 수 있다. (O/X)",
+      "options": ["O", "X"],
+      "answer": "O"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "TypeScript에서 Partial<T>의 역할은?",
+      "options": ["모든 프로퍼티를 선택적으로 만듦", "모든 프로퍼티를 필수로 만듦", "타입을 합침", "타입을 분리함"],
+      "answer": "모든 프로퍼티를 선택적으로 만듦"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "Next.js에서 ISR(Incremental Static Regeneration)의 주요 목적은?",
+      "options": ["정적 페이지의 부분적 갱신", "라우팅 최적화", "이미지 최적화", "API 속도 향상"],
+      "answer": "정적 페이지의 부분적 갱신"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "React에서 useCallback과 useMemo의 차이점은?",
+      "options": ["함수 vs 값 메모이제이션", "동일하다", "둘 다 값만 메모이제이션", "둘 다 함수만 메모이제이션"],
+      "answer": "함수 vs 값 메모이제이션"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "TypeScript에서 never 타입의 의미는?",
+      "options": ["절대 발생하지 않는 값", "모든 값", "null만", "undefined만"],
+      "answer": "절대 발생하지 않는 값"
+    }
+  ]
+} 
